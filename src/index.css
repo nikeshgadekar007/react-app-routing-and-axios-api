@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.no-margin{
+  margin: 0em;
+}
+.no-padding{
+  padding:  0em;
+}

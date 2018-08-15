@@ -1,0 +1,21 @@
+.container-fluid {
+    position: relative;
+    padding: 0em;
+    margin: 0em;
+}
+
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 5%;
+    background: rgba(0, 0, 0, 0.29);
+    color: white;
+    padding: 4em;
+    height: 90%;
+    width: 90%;
+}
+.underline{
+    border-bottom: 1px solid #49c7ed;
+    display: inline-block;
+}
